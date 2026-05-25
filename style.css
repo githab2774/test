@@ -1,0 +1,12 @@
+.box{
+    justify-content: center;
+    flex-direction: row;
+    display: flex;
+    gap: 10px;
+}
+.child {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(248, 6, 6);
+    box-shadow: 0 10px 5px black;
+}
